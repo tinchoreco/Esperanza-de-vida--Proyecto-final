@@ -1,0 +1,10 @@
+Series Name,Series Code,Country Name,Country Code,prueba
+"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,Latin America & Caribbean,LCN,..
+"Age population, age 07, male, interpolated",SP.POP.AG07.MA.IN,Latin America & Caribbean (excluding high income),LAC,..
+,,,,
+,,,,
+,,,,
+Data from database: Health Nutrition and Population Statistics,,,,
+Last Updated: 05/12/2023,,,,
+Code,License Type,Indicator Name,Short definition,Long definition,Source,Topic,Periodicity
+SP.POP.AG07.MA.IN,CC BY-4.0,"Age population, age 07, male, interpolated","Age population, male refers to male population at the specified age level.","Age population, male refers to male population at the specified age level. The geographical areas included in the data are the same as the data source.",United Nations Population Division. World Population Prospects: 2022 Revision.,Health: Population: Structure,Annual
